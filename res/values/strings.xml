@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile Endpoint</string>
+    <string name="action_settings">Settings</string>
+	<string name="send_button_label">Click to start sending location to system broker.</string>
+	<string name="send_button">Send Location</string>
+	<string name="stop_send_button_label">Click to stop sending location to system broker.</string>
+	<string name="stop_send_button">Stop</string>
+</resources>
